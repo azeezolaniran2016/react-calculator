@@ -1,6 +1,6 @@
 # react-calculator
 
-This is a simple Calculator written using Node and React. It's written for this [tutorial]() on medium post
+This is a simple Calculator written using Node and React. It was written as a guide to following this [tutorial]().
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ npm install && npm start
 
 ### Prerequisites
 
-This app requires the [Node](https://nodejs.org/) installed on your development machine
+This app requires the [Node](https://nodejs.org/) installed on your development machine.
 
 ## Author
 
