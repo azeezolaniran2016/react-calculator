@@ -6,9 +6,9 @@ import ScreenRow from './screenRow';
 // The value would be passed down from it's parent component as a prop
 const Screen = (props) => {
   return (
-    <div className="screen">
-      <ScreenRow value={props.question}/>
-      <ScreenRow value={props.answer}/>
+    <div className="screen row">
+      <ScreenRow className='input-screen' value={props.question}/>
+      <ScreenRow className='output-screen' value={props.answer}/>
     </div>
   );
 }
